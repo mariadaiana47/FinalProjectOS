@@ -18,7 +18,7 @@ Acesta este un proiect pentru cursul de **Sisteme de Operare**, realizat în cad
 - **Header-uri incluse**:
   - `stdio.h`, `stdlib.h`, `string.h`: Operații de bază pentru fișiere și string-uri.
   - `io.h`: Funcționalități pentru verificarea existenței fișierelor și directoarelor.
-  - `direct.h`: Funcționalități pentru crearea directoarelor.
+  - `dirent.h`: Funcționalități pentru crearea directoarelor.
   - `conio.h`: Curățarea ecranului.
 
 ---
